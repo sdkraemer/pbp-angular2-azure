@@ -1,0 +1,7 @@
+{
+    "name": "pbp-angular2-azure",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "4.13.4"
+    }
+}

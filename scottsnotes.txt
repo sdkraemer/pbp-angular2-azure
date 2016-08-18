@@ -1,0 +1,14 @@
+1. I updated the gulpfile.js lib task to copy over dependencies listed from index.html.
+Based on the file from spboyer's ng-startingline it looked out of date compared to the new
+quickstart from the angular repo
+
+
+
+
+Installing:
+-At root run 'gulp'
+-cd into build
+-npm install any server dependencies
+-node index.js
+
+--Moving over 404 from systemjs.config.js to gulpfile.js in the lib task
